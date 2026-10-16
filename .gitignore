@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+data/raw/
+data/cache/
+*.log
+.DS_Store
+.netlify
+.tmp-screenshots/
